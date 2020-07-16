@@ -1,0 +1,50 @@
+.first{
+  width:device-width;
+  text-align: center;
+    background-color:#d4f3ef;
+    position: relative;
+    padding-bottom: 50px;
+    padding-top: 100px;
+    margin:0%;
+}
+hr{
+border-style: dotted;
+border-color:white;
+border-width: 10%;}
+body{
+  background-color: #aacdbe;}
+  .btn{
+    border-bottom-color: blue;
+    background-color: #85a392;
+    color: #85a392;
+  }
+.mouni{
+  margin: 0;
+  font-family: 'Sacramento';
+  font-size: 3.0rem;}
+.para{
+font-family: 'Odibee Sans', cursive;
+margin:0;
+}
+.topcloud{
+  position: absolute;
+  top: 70px;
+  right:500px;
+}
+.bcloud{
+  position: absolute;
+  top:200px;
+  left:400px;
+}
+.middle-container{
+  text-align: center;
+background-image:url("https://tse2.mm.bing.net/th?id=OIP.GfrSw40qSctuEIQ1dj97zAHaEK&pid=Api&P=0&w=310&h=175");
+background-repeat: no-repeat;
+background-size: contain;
+background: 100%;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #85a392;
+  padding: 10px;
+}
